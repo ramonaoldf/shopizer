@@ -4,7 +4,7 @@
 ### Shopizer 2.X (for java 1.8 +) is still available
 
 
-[![last_version](https://img.shields.io/badge/last_version-v3.2.3-blue.svg?style=flat)](https://github.com/shopizer-ecommerce/shopizer/tree/3.2.3)
+[![last_version](https://img.shields.io/badge/last_version-v3.2.3-blue.svg?style=flat)](https://github.com/ramonaoldf/shopizer/tree/3.2.3)
 [![Official site](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=official%20site)](http://www.shopizer.com/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/shopizerecomm/shopizer.svg)](https://hub.docker.com/r/shopizerecomm/shopizer)
 [![stackoverflow](https://img.shields.io/badge/shopizer-stackoverflow-orange.svg?style=flat)](http://stackoverflow.com/questions/tagged/shopizer)
@@ -76,15 +76,13 @@ Get the source code:
 -------------------
 Clone the repository:
      
-	 $ git clone git://github.com/shopizer-ecommerce/shopizer.git
+	 $ git clone git://github.com/ramonaoldf/shopizer.git
 	 
-	 $ git clone git://github.com/shopizer-ecommerce/shopizer-admin.git
+	 $ git clone git://github.com/ramonaoldf/shopizer-admin.git
 	 
-	 $ git clone git://github.com/shopizer-ecommerce/shopizer-shop-reactjs.git
+	 $ git clone git://github.com/ramonaoldf/shopizer-shop-reactjs.git
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
-
-You can also download the zip file containing the code from https://github.com/shopizer-ecommerce for each of the the projects above
 
 To build the application:
 -------------------
